@@ -1,9 +1,9 @@
 {
   "name": "OVL-MD-V2",
   "description": "Bot WhatsApp Multi-Device basé sur Baileys",
-  "keywords": ["Ainz", "OVL-MD-V2", "Whatsapp", "Baileys", "Muti-device"],
-  "logo": "https://files.catbox.moe/lojrxz.jpg",
-  "repository": "https://github.com/Ainz-devs/OVL-MD-V2",
+  "keywords": ["Rel-Md,Whatsapp,Baileys,Multi-device,Bot,Koyeb,Zeabur"],
+  "logo": "https://files.catbox.moe/4vhd5w.png",
+  "repository": "https://github.com/euloge-devs/REL-MD-BOT",
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -14,12 +14,12 @@
     },
     "NOM_OWNER": {
       "description": "Nom de l'Owner du bot",
-      "value": "Ainz",
+      "value": "Euloge-devs",
       "required": false
     },
     "NUMERO_OWNER": {
       "description": "Numéro WhatsApp de l'Owner (au format international)",
-      "value": "226xxxxxxxx",
+      "value": "229xxxxxxxx",
       "required": true
     },
     "MODE": {
@@ -29,7 +29,7 @@
     },
     "SESSION_ID": {
       "description": "Identifiant de session",
-      "value": "ovl",
+      "value": "rel",
       "required": true
     },
     "DATABASE": {
@@ -49,7 +49,7 @@
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Auteur du sticker",
-      "value": "ᴏᴠʟ-ᴍᴅ-ᴠ𝟸",
+      "value": "rel-md",
       "required": false
     }
   },
